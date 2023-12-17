@@ -1,0 +1,8 @@
+{
+  "testCount": 25,
+  "libraries": [
+    "JDBC",
+    "JDBI",
+    "Hibernate"
+  ]
+}
