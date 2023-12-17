@@ -31,10 +31,10 @@ mvn exec:java -Dexec.mainClass="cme/absolute/springcourse/App"
 ```json
 // config.json
 {
-    "tests-count": , // количество тестов на каждую библиотеку и запрос.
+    "testCount": , // кол-во тестов на каждую библиотеку и запрос.
     "libraries": [ // библиотеки для теста
         {
-            "name": , // имя библиотеки
+            "name": , // название библиотеки
         }
         ...
     ]
