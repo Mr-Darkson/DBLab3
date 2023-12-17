@@ -50,6 +50,7 @@ mvn exec:java -Dexec.mainClass="cme/absolute/springcourse/App"
 ## Результаты
 
 ![alt text](puctures/chart.png)
+
 Как мы можем видеть - JDBC и JDBI немного выигрывают в скорости запросов. В целом, эта разница невелика. Ну разве что на 1 тесте скорость действительно отличается практически в 2 раза.
 
 
